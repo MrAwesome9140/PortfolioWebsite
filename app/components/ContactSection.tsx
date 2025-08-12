@@ -112,7 +112,7 @@ export default function ContactSection() {
                     <p className="text-sm text-gray-400">Aaroh Sharma</p>
                   </div>
                 </motion.a>
-                <motion.a
+                {/* <motion.a
                   href="#"
                   whileHover={{ scale: 1.05 }}
                   className="flex items-center gap-3 px-4 py-3 bg-gray-800/50 rounded-lg hover:bg-gray-700/50 transition-colors border border-gray-700/50 group"
@@ -130,7 +130,7 @@ export default function ContactSection() {
                     <p className="font-semibold text-gray-200">X</p>
                     <p className="text-sm text-gray-400">@</p>
                   </div>
-                </motion.a>
+                </motion.a> */}
               </div>
             </div>
           </div>

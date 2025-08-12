@@ -32,10 +32,10 @@ export default function SystemArchitecture() {
               tech: [
                 "Angular",
                 "ModBus",
-                "SharePoint",
                 "Machine Learning",
-                "PDF Generation",
                 "C#",
+                "Embedded C",
+                "MPLAB X"
               ],
             },
             {
